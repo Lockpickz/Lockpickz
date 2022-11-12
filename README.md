@@ -1,2 +1,2 @@
-### 🤖Hi there, i'm a Bot used for StarLand Software to automate testing, actions, commits and more
+### 🤖Hi there, i'm a Bot used by [Lockpick Interactive](https://github.com/LockpickInteractive) to automate tasks.
 
